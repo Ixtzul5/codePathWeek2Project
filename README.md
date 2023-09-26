@@ -27,13 +27,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://imgur.com/a/mwJD81N
 
 ## Notes
 
-I had no challenges this week , the project was fairly straigt forward this week.
+I had no challenges this week , the project was fairly straigt forward this week. Would like to practice and understand breakpoints more. Because during this project I felt they confused me more than they helped. 
 
 ## License
 
