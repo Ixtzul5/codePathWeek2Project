@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A636386B-5AC1-4C53-A3FE-D1BC9AC7C0BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9931B457-7D17-4CCB-9586-19386895D3B0"
+            shouldBeEnabled = "No"
+            nameForDebugger = "&quot;settings&quot;arguement"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wordle/BoardController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "applyNumGuessesSettings(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9931B457-7D17-4CCB-9586-19386895D3B0 - 50edd2706c150749"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.BoardController.applyNumGuessesSettings(with: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ixtzulmoreno/Desktop/CodePath/ios101-project2-wordle-starter/Wordle/BoardController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "9931B457-7D17-4CCB-9586-19386895D3B0 - 50edd2706c150749"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wordle.BoardController.applyNumGuessesSettings(with: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Wordle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ixtzulmoreno/Desktop/CodePath/ios101-project2-wordle-starter/Wordle/BoardController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD8121AB-6E1F-42C7-91A0-EB82E51264F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wordle/BoardController.swift"
+            startingColumnNumber = "40"
+            endingColumnNumber = "48"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "applyThemeSettings(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
